@@ -1,60 +1,10 @@
-<dl class="">
-    <div class="sm:col-span-2">
-        <dd class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">E-Commerce sites have turned into a basic part of
-            an association hoping to extend its operations past its land area and to get tuned to changing situation of
-            worldwide markets. Glysis software , a leading E-Commerce Solutions provider company in India offers budget
-            friendly
-            e-Commerce solutions that can be profited in an extensive variety of choices. As a professional Web
-            Development Company India, we render the best solutions for e-Commerce solutions in India.
-
-        </dd>
-        <dd class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">Software development is comparatively easier than
-            Software Maintenance. It requests creative thinking and detail oriented approach to understand nitty-gritty
-            of current system setup. You might not have any desire to move up to most recent adaptation of the product
-            to understand that one component out of the bundle. That is the place we had some expertise in. We are fit
-            to give custom game plans, highlight upgrades and routine upkeep organizations for your mind boggling system
-            setups.
-
-        </dd>
-        <dd class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">Being a software development company, we
-            understand that in the present scenario, IT services and support are not just about maintaining servers and
-            software during technical failures. We need to move a step forward. To do so, we follow a modern approach by
-            implementing leading-edge technologies letting our clients differentiate themselves from all their
-            competitors.</dd>
-
-        <div class="list-styled">
-            <ol>
-                <li><strong>Hosted Shopping Cart</strong> - Hosted shopping cart operates on <b><a
-                            href="https://en.wikipedia.org/wiki/Software_as_a_service">Software as a Service (SaaS)
-                            model</a></b> whereby shipper does not guarantee the store and is facilitated on third
-                    gathering server. Vendor pays lease of the online store month to month, quarterly or yearly as might
-                    be the understanding. nop Commerce and Big-Commerce are famous hosted shopping cart solution
-                    providers.</li>
-                <li><strong>Custom Shopping Cart</strong> - Custom shopping cart is the online store developed
-                    particularly for a customer’s requirement and preference. These are bespoke online stores that are
-                    facilitated on vendor's server and he asserts the entire authorized development benefits of the
-                    store. We give particularly created arrangements that are all around changed in accordance with your
-                    Industry and work process. Our specialized group utilizes different stages to create and plan custom
-                    online store.</li>
-            </ol>
-        </div>
-
-
-
-
-        <br>
-        <p class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">Our group takes suggestive approach to manage pick
-            and propose appropriate online store in view of client spending plan, stock, client inclination and
-            calendar. Our group guarantees that online store is secure, dependable and has high accessibility. We also
-            guarantee that store is sheltered and is anything but difficult to use with eye getting look and feel. This
-            gives customer a significant involvement with online store.
-
-
-
-            </a></p><a>
-          
-            <p class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">We have track record conveying a wide range of
-                online store answers for clients and have distributed high activity stores too.</p>
-        </a>
-    </div>
-</dl>
+{
+    "title": "E-commerce App Development",
+    "discription": "Mobile application development is the process of creating software applications that run on a mobile device",
+    "content": "PGRsIGNsYXNzPSIiPgogICAgPGRpdiBjbGFzcz0ic206Y29sLXNwYW4tMiI+CiAgICAgICAgPGRkIGNsYXNzPSJtdC0xIHRleHQtc20gdGV4dC1ncmF5LTkwMCBkYXJrOnRleHQtZ3JheS0xMDAgbWItNiI+RS1Db21tZXJjZSBzaXRlcyBoYXZlIHR1cm5lZCBpbnRvIGEgYmFzaWMgcGFydCBvZgogICAgICAgICAgICBhbiBhc3NvY2lhdGlvbiBob3BpbmcgdG8gZXh0ZW5kIGl0cyBvcGVyYXRpb25zIHBhc3QgaXRzIGxhbmQgYXJlYSBhbmQgdG8gZ2V0IHR1bmVkIHRvIGNoYW5naW5nIHNpdHVhdGlvbiBvZgogICAgICAgICAgICB3b3JsZHdpZGUgbWFya2V0cy4gR2x5c2lzIHNvZnR3YXJlICwgYSBsZWFkaW5nIEUtQ29tbWVyY2UgU29sdXRpb25zIHByb3ZpZGVyIGNvbXBhbnkgaW4gSW5kaWEgb2ZmZXJzIGJ1ZGdldAogICAgICAgICAgICBmcmllbmRseQogICAgICAgICAgICBlLUNvbW1lcmNlIHNvbHV0aW9ucyB0aGF0IGNhbiBiZSBwcm9maXRlZCBpbiBhbiBleHRlbnNpdmUgdmFyaWV0eSBvZiBjaG9pY2VzLiBBcyBhIHByb2Zlc3Npb25hbCBXZWIKICAgICAgICAgICAgRGV2ZWxvcG1lbnQgQ29tcGFueSBJbmRpYSwgd2UgcmVuZGVyIHRoZSBiZXN0IHNvbHV0aW9ucyBmb3IgZS1Db21tZXJjZSBzb2x1dGlvbnMgaW4gSW5kaWEuCgogICAgICAgIDwvZGQ+CiAgICAgICAgPGRkIGNsYXNzPSJtdC0xIHRleHQtc20gdGV4dC1ncmF5LTkwMCBkYXJrOnRleHQtZ3JheS0xMDAgbWItNiI+U29mdHdhcmUgZGV2ZWxvcG1lbnQgaXMgY29tcGFyYXRpdmVseSBlYXNpZXIgdGhhbgogICAgICAgICAgICBTb2Z0d2FyZSBNYWludGVuYW5jZS4gSXQgcmVxdWVzdHMgY3JlYXRpdmUgdGhpbmtpbmcgYW5kIGRldGFpbCBvcmllbnRlZCBhcHByb2FjaCB0byB1bmRlcnN0YW5kIG5pdHR5LWdyaXR0eQogICAgICAgICAgICBvZiBjdXJyZW50IHN5c3RlbSBzZXR1cC4gWW91IG1pZ2h0IG5vdCBoYXZlIGFueSBkZXNpcmUgdG8gbW92ZSB1cCB0byBtb3N0IHJlY2VudCBhZGFwdGF0aW9uIG9mIHRoZSBwcm9kdWN0CiAgICAgICAgICAgIHRvIHVuZGVyc3RhbmQgdGhhdCBvbmUgY29tcG9uZW50IG91dCBvZiB0aGUgYnVuZGxlLiBUaGF0IGlzIHRoZSBwbGFjZSB3ZSBoYWQgc29tZSBleHBlcnRpc2UgaW4uIFdlIGFyZSBmaXQKICAgICAgICAgICAgdG8gZ2l2ZSBjdXN0b20gZ2FtZSBwbGFucywgaGlnaGxpZ2h0IHVwZ3JhZGVzIGFuZCByb3V0aW5lIHVwa2VlcCBvcmdhbml6YXRpb25zIGZvciB5b3VyIG1pbmQgYm9nZ2xpbmcgc3lzdGVtCiAgICAgICAgICAgIHNldHVwcy4KCiAgICAgICAgPC9kZD4KICAgICAgICA8ZGQgY2xhc3M9Im10LTEgdGV4dC1zbSB0ZXh0LWdyYXktOTAwIGRhcms6dGV4dC1ncmF5LTEwMCBtYi02Ij5CZWluZyBhIHNvZnR3YXJlIGRldmVsb3BtZW50IGNvbXBhbnksIHdlCiAgICAgICAgICAgIHVuZGVyc3RhbmQgdGhhdCBpbiB0aGUgcHJlc2VudCBzY2VuYXJpbywgSVQgc2VydmljZXMgYW5kIHN1cHBvcnQgYXJlIG5vdCBqdXN0IGFib3V0IG1haW50YWluaW5nIHNlcnZlcnMgYW5kCiAgICAgICAgICAgIHNvZnR3YXJlIGR1cmluZyB0ZWNobmljYWwgZmFpbHVyZXMuIFdlIG5lZWQgdG8gbW92ZSBhIHN0ZXAgZm9yd2FyZC4gVG8gZG8gc28sIHdlIGZvbGxvdyBhIG1vZGVybiBhcHByb2FjaCBieQogICAgICAgICAgICBpbXBsZW1lbnRpbmcgbGVhZGluZy1lZGdlIHRlY2hub2xvZ2llcyBsZXR0aW5nIG91ciBjbGllbnRzIGRpZmZlcmVudGlhdGUgdGhlbXNlbHZlcyBmcm9tIGFsbCB0aGVpcgogICAgICAgICAgICBjb21wZXRpdG9ycy48L2RkPgoKICAgICAgICA8ZGl2IGNsYXNzPSJsaXN0LXN0eWxlZCI+CiAgICAgICAgICAgIDxvbD4KICAgICAgICAgICAgICAgIDxsaT48c3Ryb25nPkhvc3RlZCBTaG9wcGluZyBDYXJ0PC9zdHJvbmc+IC0gSG9zdGVkIHNob3BwaW5nIGNhcnQgb3BlcmF0ZXMgb24gPGI+PGEKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL1NvZnR3YXJlX2FzX2Ffc2VydmljZSI+U29mdHdhcmUgYXMgYSBTZXJ2aWNlIChTYWFTKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWw8L2E+PC9iPiB3aGVyZWJ5IHNoaXBwZXIgZG9lcyBub3QgZ3VhcmFudGVlIHRoZSBzdG9yZSBhbmQgaXMgZmFjaWxpdGF0ZWQgb24gdGhpcmQKICAgICAgICAgICAgICAgICAgICBnYXRoZXJpbmcgc2VydmVyLiBWZW5kb3IgcGF5cyBsZWFzZSBvZiB0aGUgb25saW5lIHN0b3JlIG1vbnRoIHRvIG1vbnRoLCBxdWFydGVybHkgb3IgeWVhcmx5IGFzIG1pZ2h0CiAgICAgICAgICAgICAgICAgICAgYmUgdGhlIHVuZGVyc3RhbmRpbmcuIG5vcCBDb21tZXJjZSBhbmQgQmlnLUNvbW1lcmNlIGFyZSBmYW1vdXMgaG9zdGVkIHNob3BwaW5nIGNhcnQgc29sdXRpb24KICAgICAgICAgICAgICAgICAgICBwcm92aWRlcnMuPC9saT4KICAgICAgICAgICAgICAgIDxsaT48c3Ryb25nPkN1c3RvbSBTaG9wcGluZyBDYXJ0PC9zdHJvbmc+IC0gQ3VzdG9tIHNob3BwaW5nIGNhcnQgaXMgdGhlIG9ubGluZSBzdG9yZSBkZXZlbG9wZWQKICAgICAgICAgICAgICAgICAgICBwYXJ0aWN1bGFybHkgZm9yIGEgY3VzdG9tZXLigJlzIHJlcXVpcmVtZW50IGFuZCBwcmVmZXJlbmNlLiBUaGVzZSBhcmUgYmVzcG9rZSBvbmxpbmUgc3RvcmVzIHRoYXQgYXJlCiAgICAgICAgICAgICAgICAgICAgZmFjaWxpdGF0ZWQgb24gdmVuZG9yJ3Mgc2VydmVyIGFuZCBoZSBhc3NlcnRzIHRoZSBlbnRpcmUgYXV0aG9yaXplZCBkZXZlbG9wbWVudCBiZW5lZml0cyBvZiB0aGUKICAgICAgICAgICAgICAgICAgICBzdG9yZS4gV2UgZ2l2ZSBwYXJ0aWN1bGFybHkgY3JlYXRlZCBhcnJhbmdlbWVudHMgdGhhdCBhcmUgYWxsIGFyb3VuZCBjaGFuZ2VkIGluIGFjY29yZGFuY2Ugd2l0aCB5b3VyCiAgICAgICAgICAgICAgICAgICAgSW5kdXN0cnkgYW5kIHdvcmsgcHJvY2Vzcy4gT3VyIHNwZWNpYWxpemVkIGdyb3VwIHV0aWxpemVzIGRpZmZlcmVudCBzdGFnZXMgdG8gY3JlYXRlIGFuZCBwbGFuIGN1c3RvbQogICAgICAgICAgICAgICAgICAgIG9ubGluZSBzdG9yZS48L2xpPgogICAgICAgICAgICA8L29sPgogICAgICAgIDwvZGl2PgoKCgoKICAgICAgICA8YnI+CiAgICAgICAgPHAgY2xhc3M9Im10LTEgdGV4dC1zbSB0ZXh0LWdyYXktOTAwIGRhcms6dGV4dC1ncmF5LTEwMCBtYi02Ij5PdXIgZ3JvdXAgdGFrZXMgc3VnZ2VzdGl2ZSBhcHByb2FjaCB0byBtYW5hZ2UgcGljawogICAgICAgICAgICBhbmQgcHJvcG9zZSBhcHByb3ByaWF0ZSBvbmxpbmUgc3RvcmUgaW4gdmlldyBvZiBjbGllbnQgc3BlbmRpbmcgcGxhbiwgc3RvY2ssIGNsaWVudCBpbmNsaW5hdGlvbiBhbmQKICAgICAgICAgICAgY2FsZW5kYXIuIE91ciBncm91cCBndWFyYW50ZWVzIHRoYXQgb25saW5lIHN0b3JlIGlzIHNlY3VyZSwgZGVwZW5kYWJsZSBhbmQgaGFzIGhpZ2ggYWNjZXNzaWJpbGl0eS4gV2UgYWxzbwogICAgICAgICAgICBndWFyYW50ZWUgdGhhdCBzdG9yZSBpcyBzaGVsdGVyZWQgYW5kIGlzIGFueXRoaW5nIGJ1dCBkaWZmaWN1bHQgdG8gdXNlIHdpdGggZXllIGdldHRpbmcgbG9vayBhbmQgZmVlbC4gVGhpcwogICAgICAgICAgICBnaXZlcyBjdXN0b21lciBhIHNpZ25pZmljYW50IGludm9sdmVtZW50IHdpdGggb25saW5lIHN0b3JlLgoKCgogICAgICAgICAgICA8L2E+PC9wPjxhPgogICAgICAgICAgCiAgICAgICAgICAgIDxwIGNsYXNzPSJtdC0xIHRleHQtc20gdGV4dC1ncmF5LTkwMCBkYXJrOnRleHQtZ3JheS0xMDAgbWItNiI+V2UgaGF2ZSB0cmFjayByZWNvcmQgY29udmV5aW5nIGEgd2lkZSByYW5nZSBvZgogICAgICAgICAgICAgICAgb25saW5lIHN0b3JlIGFuc3dlcnMgZm9yIGNsaWVudHMgYW5kIGhhdmUgZGlzdHJpYnV0ZWQgaGlnaCBhY3Rpdml0eSBzdG9yZXMgdG9vLjwvcD4KICAgICAgICA8L2E+CiAgICA8L2Rpdj4KPC9kbD4=",
+    "sub_title": "Mobile E-commerce App Development",
+    "service_icon": "https://pbs.twimg.com/profile_images/1455205013899423755/D7DqriNA_400x400.png",
+    "meta_title": "E-commerce App Development",
+    "meta_discription": "E-commerce App Development",
+    "meta_keywords": "E-commerce App Development"
+}
