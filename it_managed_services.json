@@ -1,0 +1,45 @@
+<dl class="">
+    <div class="sm:col-span-2">
+        <dd class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">Glysis is one of the best IT managed service
+            providers in India. We are a well-known strategic IT outsourcing partner who can assist you to transform
+            your IT operations in the simplest possible way for utmost positive business impact. We unlock the mechanics
+            of technology and business to provide next-gen IT managed services. Our team reviews all your current
+            systems to know the workflow of operations, processes, and people. Once our managed IT services company
+            evaluates the challenges and liabilities in the existing processes, we help you explore opportunities that
+            can maximize your efficiency.</dd>
+        <dd class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">Glysis is, one of the leading managed IT service
+            providers India, helps you decrease overhead of hiring as well as managing resources by offering an extended
+            team working dedicatedly for you. Customized technology solutions, product support and maintenance, and more
+            are designed to address your particular business needs. Our IT managed services are designed to enable
+            scalability and agility of your business. By aligning various IT operations with different business
+            processes, we offer you technical know-how that assists in taking benefit of the online world.</dd>
+        <dd class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">Being a software development company, we
+            understand that in the present scenario, IT services and support are not just about maintaining servers and
+            software during technical failures. We need to move a step forward. To do so, we follow a modern approach by
+            implementing leading-edge technologies letting our clients differentiate themselves from all their
+            competitors.</dd>
+        <dd class="mt-1 text-sm text-gray-900 dark:text-gray-100 mb-6">Having outstanding command over the latest
+            technologies and a zeal to upgrade constantly, we deliver ongoing IT services and support while planning
+            strategies, development and design, deployment, and testing. All through the process, we concentrate on
+            problem-solving methods and scalability, making sure that the output is excellent when it comes to usability
+            and quality.</dd>
+
+
+
+
+        <h4 class="mt-5 mb-2 font-bold text-lg">We take orderly customer driven way to deal with help you choose the
+            right application for you.</h4>
+        <ul class="list-disc ml-10 mb-5">
+            <li>On-premise data centers</li>
+            <li>Networks</li>
+            <li>Cybersecurity tools</li>
+            <li>Cloud services (IaaS, SaaS, PaaS)</li>
+            <li>App infrastructures</li>
+            <li>Desktops</li>
+            <li>Web portals and websites</li>
+            <li>Development infrastructure</li>
+            <li>Databases, data leaks, and data warehouses</li>
+        </ul>
+        <br>
+    </div>
+</dl>
